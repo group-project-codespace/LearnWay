@@ -1,0 +1,11 @@
+/build
+/lib
+/nbproject
+/test
+/build.xml
+/LearnWay.iml
+/manifest.mf
+/old_db_data.sql
+/.git
+/.gitignore
+/.LearnWay.git
